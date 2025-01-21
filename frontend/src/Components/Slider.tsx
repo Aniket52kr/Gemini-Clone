@@ -45,7 +45,7 @@ const Slider = () => {
   }, [oneUser, fetchData]); // Include fetchData here
 
   const newChatHandler = () => {
-    navigate("/new-chat"); // Navigate to the new chat page
+    navigate("/"); // Navigate to the new chat page
   };
 
   return (
@@ -88,3 +88,11 @@ const Slider = () => {
 };
 
 export default Slider;
+
+
+
+
+
+
+
+

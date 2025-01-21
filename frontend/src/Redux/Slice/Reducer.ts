@@ -281,3 +281,13 @@ const geminiSlice = createSlice({
 // Export reducer and actions
 export default geminiSlice.reducer;
 export const { getResult } = geminiSlice.actions;
+
+
+
+
+
+
+
+
+
+
