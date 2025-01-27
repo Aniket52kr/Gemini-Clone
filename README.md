@@ -52,13 +52,12 @@ To run this project locally, follow these steps:
 5. Start the backend server: `nodemon dist/app.js`  for development mode.
 6. Start the frontend development server: `npm start` in the frontend directory.
 
-![Screenshot (211)](https://github.com/user-attachments/assets/e26847a8-616a-492d-a3b2-b8b3db399026)
-![Screenshot (212)](https://github.com/user-attachments/assets/0b219161-5bf6-4e08-928a-d4d9ddcc7f68)
-![Screenshot (213)](https://github.com/user-attachments/assets/6c87b825-7dcb-4588-9074-89ec24f37bab)
-![Screenshot (214)](https://github.com/user-attachments/assets/38b70cb6-5a8e-45ca-99e0-c355c1cc32d7)
-![Screenshot (215)](https://github.com/user-attachments/assets/b8d68dc7-741e-48c5-8100-617a4470ec16)
-![Screenshot (216)](https://github.com/user-attachments/assets/468ab4d8-e9d9-4dbb-ae68-d3f9c623faf5)
-![Screenshot (217)](https://github.com/user-attachments/assets/5d894a7c-78fa-413e-b498-82f8ebe9161b)
-
+![Screenshot (211)](https://github.com/user-attachments/assets/a8981c30-c4bd-4051-945c-712115bfffe0)
+![Screenshot (212)](https://github.com/user-attachments/assets/6dbe8326-6e63-45a2-9cde-b86ca4db474b)
+![Screenshot (213)](https://github.com/user-attachments/assets/fe1fc6a3-14a0-45f5-b3ca-5beb24a43903)
+![Screenshot (214)](https://github.com/user-attachments/assets/32ca679d-9c01-4a80-ab50-75eabe95dd71)
+![Screenshot (215)](https://github.com/user-attachments/assets/ae28ea72-2193-4b61-b739-0cc31a9f4467)
+![Screenshot (216)](https://github.com/user-attachments/assets/01aa4895-ddec-42fd-90bc-7d122d175b8a)
+![Screenshot (217)](https://github.com/user-attachments/assets/92c1f1ed-40f0-450b-90cf-4a67de7356ab)
 
 
